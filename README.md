@@ -1,4 +1,4 @@
 # beecEducation.github.io
 Documentation Portal
 
-[Tag Schema]("/schemas/tag-schema/tag-schema/html")
+[Tag Schema]("beecEducation.github.io/schemas/tag-schema/tag-schema.html")
